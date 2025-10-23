@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Surah Yaseen</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    p, li {
+      font-size: 16px;
+    }
+    hr {
+      margin-top: 30px;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 15px;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <p>This Privacy Policy applies to the <strong>Surah Yaseen</strong> mobile application developed by <strong>Muhammad Usman</strong> as a <strong>Free</strong> service. This service is provided <em>"AS IS"</em>.</p>
+
+  <h2>Information Collection and Use</h2>
+  <p>The <strong>Surah Yaseen</strong> app does <u>not collect, store, or share</u> any personal or sensitive user data. The app does not track your activity, access your files, or collect information such as IP addresses, device IDs, or location data.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>This app does not use any third-party analytics tools, advertising SDKs, or tracking services. No data is shared with anyone outside your device.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>The app is suitable for all age groups, including children under 13. Since no data is collected, there is no risk of misuse of children’s personal information.</p>
+
+  <h2>Security</h2>
+  <p>Although no personal information is collected, the developer still values user privacy and ensures the app does not request unnecessary permissions or transmit data to external servers.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>This Privacy Policy may be updated occasionally. Any updates will be reflected on this page. You are advised to review this policy periodically for any changes.</p>
+  <p><strong>Effective Date:</strong> October 23, 2025</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy or the app, please contact the developer at:</p>
+  <p><a href="mailto:flutterdevusman@gmail.com">flutterdevusman@gmail.com</a></p>
+
+  <hr>
+  <p style="text-align:center; font-size:14px; color:#555;">© 2025 Muhammad Usman. All rights reserved.</p>
+</body>
+</html>
